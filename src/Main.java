@@ -3,6 +3,8 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("this is meeeeeee🙈🙈");
+        int a=20;
+        System.out.println("Enlea 😂😂is hes "+a);
 
         }
     }
