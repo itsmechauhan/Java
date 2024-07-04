@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42c6329f-3ff1-4348-aea0-9120d3b1eb9f" name="Changes" comment="hello java">
+    <list default="true" id="42c6329f-3ff1-4348-aea0-9120d3b1eb9f" name="Changes" comment="revision of java basics_io_operation">
+      <change afterPath="$PROJECT_DIR$/src/conditional_statement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basics_io_operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_io_operation.java" afterDir="false" />
     </list>
@@ -87,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720106203185</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="revision of java basics_io_operation">
+      <option name="closed" value="true" />
+      <created>1720117567897</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720117567897</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,7 +112,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello java" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello java" />
+    <MESSAGE value="revision of java basics_io_operation" />
+    <option name="LAST_COMMIT_MESSAGE" value="revision of java basics_io_operation" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

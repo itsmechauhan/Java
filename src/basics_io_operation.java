@@ -1,4 +1,5 @@
 
+import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class basics_io_operation {
@@ -41,11 +42,11 @@ public class basics_io_operation {
 /*
 
 
-        //wap to input side aand then calc perimeter and its area
+        //wap to input side and then calc perimeter and its area
         System.out.println("Enter Side: ");
         Scanner ac=new Scanner(System.in);
         int side=ac.nextInt();
-        System.out.println("Periment of a square: "+ 4*side);
+        System.out.println("Perimeter of a square: "+ 4*side);
         System.out.println("Area of a Square: "+side*side);
 
 
@@ -77,6 +78,6 @@ public class basics_io_operation {
 
 
  */
-        //wap
+
     }
 }
