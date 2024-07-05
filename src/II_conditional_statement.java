@@ -1,3 +1,6 @@
+import javax.accessibility.AccessibleAction;
+import java.util.Scanner;
+
 public class II_conditional_statement {
     public static void main(String[] args) {
         /*
@@ -62,8 +65,34 @@ public class II_conditional_statement {
 
 
          */
+        /*
+        //wap to convert  char into int(ASCII)
+        char c='e';
+        int a=(int)c;
+        System.out.println("value of char ("+c+") in integer(ASCII) is : "+a);
+        //wap to convert ASCII(int) to char
+        int x=101;
+        char s=(char)x;
+        System.out.println("Value of ASCII(int) ("+x+") in char is : "+s);
 
 
+ */
+/*
+        //wap to input year of joining then check if YOJ is >3 then give bonus -2500
+        System.out.println("Enter the Joining Year: ");
+        Scanner ac=new Scanner(System.in);
+        int j=ac.nextInt();
+        System.out.println("Enter Current Year: ");
+        int cy= ac.nextInt();
+        System.out.println("Basic Salary: ");
+        int bs= ac.nextInt();
+        if((cy-j)>3){
+            System.out.println("Bonus Rewarded of 2500🎉🎉");
+            bs=bs+2500;
+        }
+        System.out.println("final Salary: "+bs);
 
+
+ */
     }
 }
