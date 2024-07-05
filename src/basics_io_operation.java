@@ -1,5 +1,3 @@
-
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class basics_io_operation {
@@ -78,6 +76,5 @@ public class basics_io_operation {
 
 
  */
-
     }
 }

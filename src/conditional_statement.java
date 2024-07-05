@@ -1,4 +1,4 @@
-import java.awt.desktop.ScreenSleepEvent;
+
 import java.util.Scanner;
 
 public class conditional_statement {
@@ -34,6 +34,38 @@ public class conditional_statement {
 
 
          */
+          /*
+        //wap to input a no
+        //then 1-Hello
+        //     2-Namasste
+        //     3-Bonjour
+        System.out.println("Enter Num: ");
+        Scanner ac=new Scanner(System.in);
+        int n=ac.nextInt();
+        if(n==1) System.out.println("Hello");
+        else if(n==2) System.out.println("Namaste");
+        else if(n==3) System.out.println("Bonjour");
+        else System.out.println("Invalid input");
+
+
+         */
+        /*
+        //wap to input a char then check whether the character is a vowel or consonant
+        System.out.println("Enter a char: ");
+        Scanner ac=new Scanner(System.in);
+        String a=ac.next();
+        switch (a) {
+            case "a", "e", "i", "o", "u":
+                System.out.println("Vowel");
+                break;
+            default:
+                System.out.println("Consonant");
+                break;
+        }
+
+
+         */
+
 
 
     }
