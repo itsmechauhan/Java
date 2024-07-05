@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class basics_io_operation {
     public static void main(String[] args){
         /*
