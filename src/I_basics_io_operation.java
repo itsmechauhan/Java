@@ -1,4 +1,4 @@
-public class basics_io_operation {
+public class I_basics_io_operation {
     public static void main(String[] args){
         /*
         //Swapping two number

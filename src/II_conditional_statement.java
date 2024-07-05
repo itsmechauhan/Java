@@ -1,7 +1,4 @@
-
-import java.util.Scanner;
-
-public class conditional_statement {
+public class II_conditional_statement {
     public static void main(String[] args) {
         /*
         //wap to check candidate is eligible for vote or not
